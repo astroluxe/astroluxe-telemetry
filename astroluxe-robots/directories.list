@@ -1,4 +1,5 @@
 /app/plugins/
+/app/uploads/
 */page/*
 */archive/*
 */feed/*
