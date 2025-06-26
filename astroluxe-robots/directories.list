@@ -12,3 +12,4 @@
 /checkouts/*
 /cart/*
 /*.gz$
+/index.php
