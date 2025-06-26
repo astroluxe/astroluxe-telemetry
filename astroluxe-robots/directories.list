@@ -13,3 +13,5 @@
 /cart/*
 /*.gz$
 /index.php
+/config/
+/static/
