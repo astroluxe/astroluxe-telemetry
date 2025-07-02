@@ -1,51 +1,38 @@
-AhrefsBot
-Baiduspider
-MojeekBot
-PetalBot
-SeznamBot
-Sogou web spider
-Yacybot
-Yandexbot
-YandexImageResizer
-YandexImages
-ZoomBot
+Amazonbot
 ClaudeBot
 GPTBot
+SemrushBot
+Barkrowler
 meta-externalagent
-The Knowledge AI
-CensysInspect
-InternetMeasurement
-RepoLookoutBot
-Keydrop.io
-GenomeCrawlerd
-Amazonbot
-Bytespider
-DataForSeoBot
+AhrefsBot
+MJ12bot
+BLEXBot
+Buck
+VelenPublicWebCrawler
+MojeekBot
+trendictionbot
+SeekportBot
+SeekrBot
 Dataprovider
+ZoomBot
+Sogou web spider
+PetalBot
+Bytespider
+SeznamBot
+Paqlebot
+YandexImages
+Timpibot
 Diffbot
 DotBot
 ImagesiftBot
-MJ12bot
-SemrushBot
-SEOkicks
-Timpibot
-VelenPublicWebCrawler
-AhrefsBot
-Barkrowler
-Buck
-BLEXBot
-Mediatoolkitbot
-MuckRack
-MuckRackFeedParser
-TaraGroup Intelligent Bot V1
-trendictionbot
-Jetslide
+Yacybot
+Yandexbot
+YandexImageResizer
+DataForSeoBot
+The Knowledge AI
+RepoLookoutBot
 Bytedance
 CCBot
-Python/3.8 aiohttp/3.9.5
-Python/3.9 aiohttp/3.9.4
-Paqlebot
-SeekportBot
-SeekrBot
 special_archiverv
-peer39_crawler
+SEOkicks
+Mediatoolkitbot
