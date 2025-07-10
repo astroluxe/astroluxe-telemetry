@@ -1,5 +1,6 @@
 /wp/wp-comments-post.php
 /app/plugins/
+/app/uploads/
 */archive/*
 */feed/*
 /search/
